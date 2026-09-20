@@ -257,7 +257,7 @@ La prioridad del desarrollo es mantener un sistema:
 🌊 Radar de Olas
 Aplicación en Python y Streamlit para detectar señales tempranas de actividad informativa y comparar su evolución entre fuentes internacionales y en español.
 
-[Ver proyecto en GitHub] (https://github.com/LMGCH/radar-olas/) · [Probar Radar de Olas] (https://radar-olas.streamlit.app/)
+[Ver proyecto en GitHub](https://github.com/LMGCH/radar-olas/) · [Probar Radar de Olas](https://radar-olas.streamlit.app/)
 ---
 
 **Radar de Olas · 2026**
