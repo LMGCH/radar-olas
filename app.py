@@ -291,8 +291,6 @@ with st.expander("📖 Cómo usar Radar de Olas"):
     > **Radar de Olas no predice qué será viral. Detecta señales para que tú puedas investigar dónde empieza a formarse una ola.**
     """)
 
-    st.subheader("🌍 Lo que se mueve ahora")
-
 with st.expander("🌍 Lo que se mueve ahora", 
     expanded=False  
 ):
